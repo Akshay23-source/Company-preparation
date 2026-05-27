@@ -1,0 +1,275 @@
+
+
+Today we train exactly like a **TCS NQT Round**.
+
+---
+
+# 🎯 TODAY’S GOAL
+
+✅ Advanced TCS aptitude
+✅ TCS coding logic
+✅ Time management tricks
+✅ Verbal improvement
+✅ HR communication
+
+---
+
+# 1️⃣ TCS ADVANCED APTITUDE
+
+TCS focuses heavily on:
+
+* Speed
+* Accuracy
+* Pattern recognition
+
+---
+
+# 🔥 PERCENTAGE SHORTCUTS
+
+## Example 1
+
+Find 12.5% of 640
+
+### Trick:
+
+12.5% = 1/8
+
+[
+640 ÷ 8 = 80
+]
+
+✅ Answer = 80
+
+---
+
+## Example 2
+
+Find 33.33% of 300
+
+33.33% ≈ 1/3
+
+[
+300 ÷ 3 = 100
+]
+
+✅ Answer = 100
+
+---
+
+# 🔥 TIME & WORK (TCS STYLE)
+
+## Example 3
+
+A completes work in 10 days
+B completes work in 15 days
+
+Together?
+
+[
+\frac{10×15}{10+15}
+]
+
+[
+= \frac{150}{25}
+= 6
+]
+
+✅ Answer = 6 days
+
+---
+
+# 🔥 NUMBER SERIES (VERY COMMON)
+
+## Example 4
+
+5, 10, 20, 40, ?
+
+Pattern:
+
+[
+×2
+]
+
+[
+40 × 2 = 80
+]
+
+✅ Answer = 80
+
+---
+
+# 2️⃣ TCS CODING ROUND (IMPORTANT)
+
+TCS coding is usually:
+
+* Logic-based
+* Not very advanced
+* Focused on implementation
+
+---
+
+# 💻 Coding Problem 1
+
+## Reverse a Number
+
+Input:
+1234
+
+Output:
+4321
+
+---
+
+## Logic
+
+```python id="mxtt81"
+n = 1234
+rev = 0
+
+while n > 0:
+    digit = n % 10
+    rev = rev * 10 + digit
+    n = n // 10
+
+print(rev)
+```
+
+---
+
+# 💻 Coding Problem 2
+
+## Palindrome Number
+
+121 → palindrome
+123 → not palindrome
+
+---
+
+## Logic
+
+Compare original with reversed number.
+
+---
+
+# 💻 Coding Problem 3
+
+## Find Largest Element in Array
+
+Array:
+[3, 8, 2, 10]
+
+Largest = 10
+
+---
+
+## Logic
+
+Use loop and compare each element.
+
+---
+
+# 3️⃣ TCS VERBAL SECTION
+
+TCS verbal usually tests:
+
+* Grammar
+* Vocabulary
+* Sentence correction
+
+---
+
+## Example 5
+
+Correct sentence:
+
+❌ She don’t like coffee
+✅ She doesn’t like coffee
+
+---
+
+## Example 6
+
+Synonym of “Rapid”
+
+✅ Fast
+
+---
+
+# 4️⃣ TCS INTERVIEW QUESTION
+
+## ❓ “Tell me about a challenge you faced.”
+
+### Strong Structure
+
+Situation → Action → Result
+
+---
+
+### Example
+
+During my preparation, I initially faced difficulty managing time across aptitude and communication practice. I created a structured daily schedule and practiced consistently, which improved both my confidence and performance.
+
+---
+
+# 5️⃣ TCS TIME MANAGEMENT STRATEGY
+
+During exam:
+
+✅ Solve easy questions first
+✅ Skip lengthy calculations initially
+✅ Don’t panic on coding section
+
+---
+
+# 📝 TODAY’S PRACTICE
+
+## Aptitude
+
+1. Find 25% of 480
+2. 2, 4, 8, 16, ?
+3. A = 8 days, B = 12 days. Together?
+
+---
+
+## Verbal
+
+4. Correct:
+   “He don’t play football.”
+
+5. Synonym:
+   “Accurate”
+
+---
+
+## Coding Logic
+
+6. Explain palindrome logic.
+
+---
+
+# 🗣️ COMMUNICATION PRACTICE (TCS LEVEL)
+
+Read clearly:
+
+> “Success in TCS recruitment depends on consistency, logical thinking, and communication skills. Candidates who remain calm under pressure and solve problems systematically perform better. Strong fundamentals and confidence are more important than memorizing difficult concepts.”
+
+---
+
+# 🎯 TCS DIGITAL INSIGHT
+
+For TCS Digital:
+
+* Coding becomes more important
+* DSA basics help
+* Communication still matters a lot
+
+---
+
+# ✅ TODAY’S HOMEWORK
+
+* Solve practice questions
+* Practice reverse-number logic
+* Revise percentages shortcuts
+* Practice challenge-based HR answer
+
+
