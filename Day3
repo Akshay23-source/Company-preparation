@@ -1,0 +1,306 @@
+
+
+# 🟦 TCS MASTER PREP – DIGITAL CODING + REAL MOCK QUESTIONS
+
+**TCS Final Preparation Day** 🔥
+
+Today we prepare for:
+✅ TCS Digital coding level
+✅ Real NQT-style questions
+✅ Coding logic thinking
+✅ HR + communication polish
+
+---
+
+# 🎯 TODAY’S GOAL
+
+Learn:
+
+* TCS Digital question pattern
+* Beginner DSA thinking
+* Problem-solving approach
+* Real interview logic
+
+---
+
+# 1️⃣ TCS DIGITAL CODING PATTERN
+
+Usually asks:
+
+* Arrays
+* Strings
+* Loops
+* Basic DSA logic
+* Pattern questions
+
+Difficulty:
+🟨 Easy → Medium
+
+---
+
+# 💻 CODING QUESTION 1
+
+# PRIME NUMBER CHECK
+
+## Problem
+
+Check whether a number is prime.
+
+---
+
+## Concept
+
+Prime number:
+Only divisible by:
+1 and itself
+
+---
+
+## Python Logic
+
+```python id="tz7x11"
+n = 13
+is_prime = True
+
+for i in range(2, n):
+    if n % i == 0:
+        is_prime = False
+        break
+
+if is_prime:
+    print("Prime")
+else:
+    print("Not Prime")
+```
+
+---
+
+# 🔥 INTERVIEW TIP
+
+Always explain:
+
+1. Input
+2. Logic
+3. Output
+
+Interviewers observe thinking.
+
+---
+
+# 💻 CODING QUESTION 2
+
+# PALINDROME STRING
+
+Input:
+madam
+
+Output:
+Palindrome
+
+---
+
+## Logic
+
+Reverse string and compare.
+
+---
+
+## Python Logic
+
+```python id="bj1z72"
+s = "madam"
+
+if s == s[::-1]:
+    print("Palindrome")
+else:
+    print("Not Palindrome")
+```
+
+---
+
+# 💻 CODING QUESTION 3
+
+# FIND SECOND LARGEST NUMBER
+
+Array:
+[4, 8, 2, 10, 6]
+
+Largest = 10
+Second largest = 8
+
+---
+
+## Simple Logic
+
+1. Sort array
+2. Pick second last element
+
+---
+
+# 🔥 TCS PATTERN QUESTION
+
+## Example 1
+
+1
+12
+123
+1234
+
+---
+
+## Logic
+
+Nested loops.
+
+---
+
+# 2️⃣ TCS REAL APTITUDE MOCK
+
+---
+
+## Question 1
+
+A train 200m long crosses a pole at 20m/s.
+
+Time?
+
+[
+200 ÷ 20 = 10
+]
+
+✅ Answer = 10 sec
+
+---
+
+## Question 2
+
+25% of 640?
+
+[
+640 ÷ 4 = 160
+]
+
+✅ Answer = 160
+
+---
+
+## Question 3
+
+2, 6, 18, 54, ?
+
+Pattern:
+×3
+
+[
+54 × 3 = 162
+]
+
+---
+
+# 3️⃣ TCS COMMUNICATION ROUND
+
+TCS checks:
+
+* Clarity
+* Grammar
+* Confidence
+
+NOT fancy English.
+
+---
+
+# 🎤 HR QUESTION
+
+## ❓ Why should we hire you?
+
+### Strong TCS Answer
+
+I believe I am a strong fit for this role because I am consistent, willing to learn, and capable of adapting quickly. I have been preparing regularly to improve my aptitude, technical, and communication skills, and I am ready to contribute positively to the organization.
+
+---
+
+# 4️⃣ TCS DIGITAL INTERVIEW TIPS
+
+---
+
+## If you don’t know answer:
+
+Never say:
+❌ “I don’t know.”
+
+Say:
+✅
+
+I am not completely sure about the exact answer, but based on my understanding…
+
+---
+
+# 5️⃣ MOST ASKED TCS QUESTIONS
+
+Technical:
+
+* OOP basics
+* DBMS basics
+* Arrays
+* Strings
+* SQL basics
+
+HR:
+
+* Tell me about yourself
+* Why TCS?
+* Teamwork examples
+
+---
+
+# 📝 TODAY’S PRACTICE
+
+## Coding
+
+1. Explain prime number logic
+2. Explain palindrome logic
+3. Find largest number logic
+
+---
+
+## Aptitude
+
+4. 5, 15, 45, ?
+5. A = 6 days, B = 3 days. Together?
+
+---
+
+## HR
+
+6. Answer:
+   “Why should we hire you?”
+
+---
+
+# 🗣️ COMMUNICATION PRACTICE (DIGITAL LEVEL)
+
+Read clearly:
+
+> “TCS Digital recruitment focuses on problem-solving ability, coding fundamentals, and communication skills. Candidates who explain their logic clearly and remain calm during interviews usually perform better. Consistency, learning attitude, and confidence are important qualities that recruiters look for in freshers.”
+
+---
+
+# 🎯 TCS FINAL INSIGHT
+
+TCS does NOT expect perfection.
+
+They mainly want:
+✅ Trainable candidates
+✅ Good communicators
+✅ Logical thinkers
+✅ Positive attitude
+
+---
+
+# ✅ TODAY’S HOMEWORK
+
+* Practice prime number logic
+* Practice palindrome logic
+* Revise TCS HR answers
+* Solve aptitude questions without calculator
+
