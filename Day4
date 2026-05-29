@@ -1,0 +1,276 @@
+# 📅 **Today’s Learning – Day 4 / 40**
+
+# 🟨 INFOSYS MASTER PREP – REASONING + PUZZLE ROUND
+
+**Infosys Company Prep Begins** 🔥
+
+Today we start preparing for the hiring style of:
+
+Infosys
+
+---
+
+# 🎯 TODAY'S GOAL
+
+✅ Infosys reasoning pattern
+✅ Puzzle solving approach
+✅ Analytical thinking
+✅ HR style questions
+✅ Communication skills
+
+---
+
+# 1️⃣ INFOSYS REASONING STYLE
+
+Infosys focuses heavily on:
+
+* Logical reasoning
+* Puzzles
+* Analytical thinking
+* Pattern recognition
+
+Unlike TCS, Infosys often gives more reasoning-heavy questions.
+
+---
+
+# 🔥 PUZZLE SOLVING STRATEGY
+
+Always follow:
+
+### Step 1
+
+Read all conditions
+
+### Step 2
+
+Find direct clues
+
+### Step 3
+
+Draw table/diagram
+
+### Step 4
+
+Eliminate impossible cases
+
+---
+
+# 🧩 PUZZLE 1
+
+Three friends:
+
+* A
+* B
+* C
+
+Conditions:
+
+* A is taller than B
+* B is taller than C
+
+Who is tallest?
+
+---
+
+### Solution
+
+[
+A > B > C
+]
+
+✅ Tallest = A
+
+---
+
+# 🧩 PUZZLE 2
+
+Five people stand in a row.
+
+* A is left of B
+* B is left of C
+
+Who is rightmost among A, B, C?
+
+---
+
+### Solution
+
+A → B → C
+
+✅ Rightmost = C
+
+---
+
+# 2️⃣ INFOSYS NUMBER REASONING
+
+---
+
+## Example 1
+
+3, 6, 12, 24, ?
+
+Pattern:
+
+×2
+
+[
+24 × 2 = 48
+]
+
+✅ Answer = 48
+
+---
+
+## Example 2
+
+1, 4, 9, 16, ?
+
+Squares:
+
+[
+5^2 = 25
+]
+
+✅ Answer = 25
+
+---
+
+# 3️⃣ INFOSYS ANALYTICAL QUESTION
+
+## Question
+
+A clock shows 3:00.
+
+What is the angle between the hands?
+
+---
+
+### Solution
+
+At 3:00
+
+Minute hand = 12
+
+Hour hand = 3
+
+Angle =
+
+[
+90^\circ
+]
+
+✅ Answer = 90°
+
+---
+
+# 4️⃣ INFOSYS SQL INTRO
+
+Infosys often asks very basic database questions.
+
+---
+
+## What is SQL?
+
+SQL stands for:
+
+**Structured Query Language**
+
+Used to:
+
+* Store data
+* Retrieve data
+* Update data
+
+---
+
+## Example Query
+
+Show all students:
+
+```sql
+SELECT * FROM Students;
+```
+
+---
+
+# 5️⃣ INFOSYS HR QUESTION
+
+## ❓ Why Infosys?
+
+### Strong Answer
+
+Infosys is known for its learning culture, strong training programs, and opportunities for freshers. I believe it is an excellent environment to build technical skills, gain industry experience, and contribute to meaningful projects.
+
+---
+
+# 6️⃣ INFOSYS SITUATIONAL QUESTION
+
+## ❓ What if your teammate misses a deadline?
+
+### Good Structure
+
+1. Understand the issue
+2. Communicate respectfully
+3. Support the team
+4. Focus on completing the work
+
+---
+
+# 📝 TODAY'S PRACTICE
+
+## Reasoning
+
+1. 2, 4, 8, 16, ?
+2. A > B > C > D. Who is smallest?
+3. A is left of B, B left of C. Who is rightmost?
+
+---
+
+## Analytical
+
+4. What is angle at 6:00?
+
+---
+
+## SQL
+
+5. What does SQL stand for?
+
+---
+
+## HR
+
+6. Why Infosys?
+
+(Answer in your own words.)
+
+---
+
+# 🗣️ COMMUNICATION PRACTICE (INFOSYS STYLE)
+
+Read aloud:
+
+> “Infosys values candidates who demonstrate logical thinking, analytical ability, and a strong willingness to learn. Effective communication and a positive attitude are equally important. Candidates who solve problems systematically and explain their reasoning clearly usually perform well during the recruitment process.”
+
+---
+
+# 🎯 INFOSYS INSIGHT
+
+Infosys recruiters mainly look for:
+
+✅ Logical thinking
+✅ Problem-solving ability
+✅ Learning mindset
+✅ Clear communication
+✅ Teamwork attitude
+
+---
+
+# ✅ TODAY'S HOMEWORK
+
+* Solve all practice questions
+* Learn SQL full form
+* Practice one puzzle without looking at the answer
+* Prepare a 60-second answer for “Why Infosys?”
+
+
