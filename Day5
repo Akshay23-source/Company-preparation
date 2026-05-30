@@ -1,0 +1,260 @@
+
+
+# 🟨 INFOSYS MASTER PREP – ADVANCED PUZZLES + DBMS BASICS + RESUME QUESTIONS
+
+**Infosys Company Prep Continues** 🔥
+
+Today we focus on three areas Infosys interviews commonly test:
+
+✅ Advanced reasoning
+✅ DBMS fundamentals
+✅ Resume-based interview questions
+
+---
+
+# 🎯 TODAY'S GOAL
+
+Learn:
+
+* Infosys puzzle-solving tricks
+* DBMS interview basics
+* How to answer resume questions confidently
+
+---
+
+# 1️⃣ ADVANCED PUZZLES (INFOSYS STYLE)
+
+---
+
+## 🧩 Puzzle 1
+
+Four friends A, B, C, D sit in a row.
+
+Conditions:
+
+* A sits left of B
+* C sits right of B
+* D sits at one end
+
+Who sits in the middle?
+
+---
+
+### Solution Approach
+
+Possible arrangement:
+
+D A B C
+
+Middle positions = A and B
+
+Important lesson:
+👉 Don't guess.
+👉 Draw positions.
+
+---
+
+## 🧩 Puzzle 2
+
+Five people stand in a queue.
+
+* P is ahead of Q
+* Q is ahead of R
+
+Who is last among P, Q, R?
+
+### Solution
+
+P → Q → R
+
+✅ Last = R
+
+---
+
+# 🔥 Infosys Puzzle Shortcut
+
+Always write:
+
+```text
+Position | Person
+1
+2
+3
+4
+5
+```
+
+Then fill clues.
+
+This reduces mistakes.
+
+---
+
+# 2️⃣ DBMS BASICS (VERY IMPORTANT)
+
+Infosys frequently asks DBMS fundamentals.
+
+---
+
+## What is DBMS?
+
+### Answer
+
+DBMS (Database Management System) is software used to store, organize, manage, and retrieve data efficiently.
+
+Examples:
+
+* MySQL
+* PostgreSQL
+
+---
+
+## Why DBMS?
+
+Without DBMS:
+
+❌ Data duplication
+❌ Difficult management
+
+With DBMS:
+
+✅ Organized storage
+✅ Easy retrieval
+✅ Better security
+
+---
+
+# 3️⃣ PRIMARY KEY (VERY IMPORTANT)
+
+## Definition
+
+A Primary Key:
+
+* Uniquely identifies each row
+* Cannot be NULL
+* Cannot be duplicated
+
+---
+
+### Example
+
+| StudentID | Name   |
+| --------- | ------ |
+| 101       | Akshay |
+| 102       | Rahul  |
+
+StudentID = Primary Key
+
+---
+
+# 4️⃣ DIFFERENCE BETWEEN DBMS & RDBMS
+
+| DBMS             | RDBMS                  |
+| ---------------- | ---------------------- |
+| Stores data      | Stores data in tables  |
+| Less structured  | More structured        |
+| No relationships | Supports relationships |
+
+---
+
+### Interview Answer
+
+RDBMS is an advanced form of DBMS where data is stored in related tables.
+
+---
+
+# 5️⃣ INFOSYS RESUME QUESTIONS
+
+Recruiters often ask directly from your resume.
+
+---
+
+## ❓ Tell me about a project
+
+Use:
+
+### Problem → Solution → Outcome
+
+---
+
+### Example Structure
+
+“I worked on a project related to women's safety. The objective was to improve emergency response through an SOS-based alert mechanism. The project focused on improving safety and communication during emergencies.”
+
+---
+
+## ❓ Why did you choose this project?
+
+Answer:
+
+* Interest
+* Problem-solving
+* Learning experience
+
+---
+
+# 6️⃣ HR QUESTION
+
+## ❓ Why should Infosys hire you?
+
+### Strong Answer
+
+I am a disciplined and quick learner who continuously works on improving technical, aptitude, and communication skills. I am eager to learn, contribute effectively, and grow within the organization.
+
+---
+
+# 📝 TODAY'S PRACTICE
+
+## Puzzle
+
+1. A > B > C > D. Who is tallest?
+2. P is before Q, Q before R. Who is last?
+
+---
+
+## DBMS
+
+3. What is DBMS?
+4. What is Primary Key?
+5. Difference between DBMS and RDBMS?
+
+---
+
+## HR
+
+6. Explain one project in 60 seconds.
+
+---
+
+# 🗣️ COMMUNICATION PRACTICE (INFOSYS LEVEL)
+
+Read aloud:
+
+> “Database management systems play a crucial role in modern software applications. They help store, organize, and retrieve information efficiently. Understanding fundamental database concepts such as primary keys, tables, and relationships is important for technical interviews. Clear communication and structured thinking help candidates explain technical concepts effectively.”
+
+---
+
+# 🎯 INFOSYS INTERVIEW INSIGHT
+
+Most freshers are rejected because:
+
+❌ Weak project explanation
+❌ Poor communication
+❌ Memorized answers
+
+Selected candidates usually:
+
+✅ Explain clearly
+✅ Understand basics
+✅ Stay calm during interviews
+
+---
+
+# ✅ TODAY'S HOMEWORK
+
+* Learn DBMS definition
+* Learn Primary Key
+* Practice project explanation
+* Solve puzzle questions
+
+
