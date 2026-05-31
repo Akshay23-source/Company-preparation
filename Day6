@@ -1,0 +1,243 @@
+# 📅 **Today’s Learning – Day 6 / 40**
+
+# 🟨 INFOSYS MASTER PREP – SQL BASICS + HR SCENARIOS + FULL INFOSYS MOCK
+
+**Infosys Company Prep Final Day** 🔥
+
+Today we complete Infosys preparation and simulate a real Infosys-style assessment.
+
+---
+
+# 🎯 TODAY'S GOAL
+
+✅ SQL Basics
+✅ HR Scenario Questions
+✅ Infosys Mock Test
+✅ Interview Confidence
+
+---
+
+# 1️⃣ SQL BASICS (VERY IMPORTANT)
+
+Infosys often asks basic SQL in interviews.
+
+---
+
+## 🔹 What is SQL?
+
+**SQL (Structured Query Language)** is used to:
+
+* Create data
+* Read data
+* Update data
+* Delete data
+
+---
+
+## 🔹 SELECT Statement
+
+Display all records:
+
+```sql
+SELECT * FROM Students;
+```
+
+Meaning:
+Show every row and every column.
+
+---
+
+## 🔹 WHERE Clause
+
+Show only specific records:
+
+```sql
+SELECT * FROM Students
+WHERE Marks > 80;
+```
+
+---
+
+## 🔹 INSERT Statement
+
+Add new record:
+
+```sql
+INSERT INTO Students
+VALUES (101, 'Akshay', 85);
+```
+
+---
+
+## 🔹 UPDATE Statement
+
+Modify data:
+
+```sql
+UPDATE Students
+SET Marks = 90
+WHERE StudentID = 101;
+```
+
+---
+
+## 🔹 DELETE Statement
+
+Remove record:
+
+```sql
+DELETE FROM Students
+WHERE StudentID = 101;
+```
+
+---
+
+# 🎤 2️⃣ INFOSYS HR SCENARIO QUESTIONS
+
+These are very common.
+
+---
+
+## ❓ Scenario 1
+
+Your teammate is not contributing.
+
+### Good Answer
+
+1. Understand the reason
+2. Communicate respectfully
+3. Help if needed
+4. Focus on team success
+
+---
+
+## ❓ Scenario 2
+
+You made a mistake in a project.
+
+### Good Answer
+
+I would immediately acknowledge the mistake, inform the relevant team members if necessary, fix the issue, and learn from it to prevent similar errors in the future.
+
+---
+
+## ❓ Scenario 3
+
+You have multiple deadlines.
+
+### Good Answer
+
+I would prioritize tasks based on urgency and impact, create a plan, and complete work systematically while keeping stakeholders informed.
+
+---
+
+# 🧠 3️⃣ INFOSYS FULL MOCK TEST
+
+---
+
+## REASONING
+
+### Q1
+
+2, 6, 18, 54, ?
+
+### Q2
+
+A > B > C > D
+
+Who is shortest?
+
+### Q3
+
+A is left of B, B left of C.
+
+Who is rightmost?
+
+---
+
+## APTITUDE
+
+### Q4
+
+25% of 480 = ?
+
+### Q5
+
+A completes work in 8 days.
+
+B completes work in 12 days.
+
+Together?
+
+### Q6
+
+Average of 5 numbers = 20.
+
+Find total.
+
+---
+
+## SQL
+
+### Q7
+
+What does SQL stand for?
+
+### Q8
+
+Which command displays all records?
+
+### Q9
+
+What is a Primary Key?
+
+---
+
+## HR
+
+### Q10
+
+Why do you want to join Infosys?
+
+---
+
+# 4️⃣ RESUME RAPID FIRE
+
+Prepare answers for:
+
+### ❓ Explain your project in 60 seconds
+
+### ❓ What skills are you currently learning?
+
+### ❓ What are your strengths?
+
+---
+
+# 🗣️ COMMUNICATION PRACTICE (INFOSYS LEVEL)
+
+Read aloud:
+
+> “Successful candidates combine technical knowledge with communication skills and professionalism. Employers look for individuals who can learn quickly, collaborate effectively, and solve problems logically. Strong fundamentals, a positive attitude, and clear communication significantly improve interview performance.”
+
+---
+
+# 🎯 INFOSYS FINAL INSIGHT
+
+Infosys usually selects candidates who demonstrate:
+
+✅ Logical reasoning
+✅ Basic technical understanding
+✅ Strong communication
+✅ Teamwork mindset
+✅ Learning attitude
+
+---
+
+# ✅ TODAY'S HOMEWORK
+
+* Solve all 10 mock questions
+* Learn SQL commands
+* Practice project explanation
+* Practice one HR scenario answer
+
+
